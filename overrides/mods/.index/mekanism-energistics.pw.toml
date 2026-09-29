@@ -1,0 +1,17 @@
+filename = 'MekanismEnergistics-0.1.5.jar'
+name = 'Mekanism Energistics'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MekanismEnergistics-0.1.5.jar'
+
+[download]
+hash = '6967e5cc8b65d9ca06921e4da8428b447a10993e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5775101
+project-id = 1027681

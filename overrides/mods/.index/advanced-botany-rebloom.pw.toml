@@ -1,0 +1,17 @@
+filename = 'advanced_botany_rebloom-1.2.2.jar'
+name = 'Advanced Botany: Rebloom'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'advanced_botany_rebloom-1.2.2.jar'
+
+[download]
+hash = '0b7c96903697188390592e69ee0c9bc8c4986ece'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8728150
+project-id = 1598374

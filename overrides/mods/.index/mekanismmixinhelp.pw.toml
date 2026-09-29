@@ -1,0 +1,17 @@
+filename = 'MekanismMixinHelp-1.3.1.jar'
+name = 'MekanismMixinHelp'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MekanismMixinHelp-1.3.1.jar'
+
+[download]
+hash = 'bb36028fc3b0a53160c511fa747ba43fb8e8b399'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8715183
+project-id = 1193452

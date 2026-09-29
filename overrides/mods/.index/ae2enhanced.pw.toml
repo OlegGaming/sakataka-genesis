@@ -1,0 +1,17 @@
+filename = 'AE2Enhanced-1.7.5.jar'
+name = 'AE2Enhanced'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AE2Enhanced-1.7.5.jar'
+
+[download]
+hash = '93d3641b2e2da1985b263135b11d16cbe682330b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8686473
+project-id = 1525976

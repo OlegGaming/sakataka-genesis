@@ -1,0 +1,17 @@
+filename = 'terminal_interaction_integration-1.2.4.jar'
+name = 'Terminal Interaction Integration'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'terminal_interaction_integration-1.2.4.jar'
+
+[download]
+hash = '8b11f7f6369d0eab3f5975daf4054fadbb64e475'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8819556
+project-id = 1541790

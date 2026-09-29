@@ -1,0 +1,17 @@
+filename = 'lanserverproperties-1.0.jar'
+name = 'Lan Server Properties'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12', '1.12-Snapshot', '1.12.1', '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.12.2_Forge'
+
+[download]
+hash = '2afe8181d301fefffad17b06ef54b79ad8158a40'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2994188
+project-id = 387365

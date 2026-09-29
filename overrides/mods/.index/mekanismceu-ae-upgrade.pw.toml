@@ -1,0 +1,17 @@
+filename = 'MekanismCeu-AE-Upgrade-1.4.0.jar'
+name = 'MekanismCeu-AE-Upgrade'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MekanismCeu-AE-Upgrade-1.4.0.jar'
+
+[download]
+hash = '7b63e78d9b2d657524d5e1f4db1dccec3ca02e44'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8862564
+project-id = 1606943

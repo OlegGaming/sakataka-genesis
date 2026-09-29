@@ -1,0 +1,17 @@
+filename = 'Cavern_1.12.2-v2.3.1.jar'
+name = 'Cavern II'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Cavern_1.12.2-v2.3.1.jar'
+
+[download]
+hash = '9057f97d62d2643bf4f88764792a0da67f8636ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2984351
+project-id = 285628

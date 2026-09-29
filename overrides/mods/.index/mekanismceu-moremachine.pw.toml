@@ -1,0 +1,17 @@
+filename = 'MekanismCeU-MoreMachine-1.10.1.jar'
+name = 'MekanismCeU-MoreMachine'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MekanismCeU-MoreMachine-1.10.1.jar'
+
+[download]
+hash = '52ada75402d03801acaa43f80e5d35f6cde298e6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8862567
+project-id = 1606952

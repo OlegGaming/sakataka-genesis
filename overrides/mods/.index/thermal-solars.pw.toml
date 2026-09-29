@@ -1,0 +1,17 @@
+filename = 'thermalsolars-1.12.2-1.9.5.jar'
+name = 'Thermal Solars'
+side = 'both'
+x-prismlauncher-loaders = []
+x-prismlauncher-mc-versions = [ '1.12.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'thermalsolars-1.12.2-1.9.5.jar'
+
+[download]
+hash = 'b09e100fe5ff223807977bd9ab6bac2f6daedf9f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 2738153
+project-id = 257381
